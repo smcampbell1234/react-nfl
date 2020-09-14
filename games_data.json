@@ -1,5 +1,19 @@
 [
-      {"make": 'Toyota', "model": 'Celica', "price": "35000"},
-      {"make": 'Ford', "model": 'Mondeo', "price": "32000"},
-      {"make": 'Porscha', "model": 'Boxter', "price": "36000"}, 
+      {
+        'make': 'Toyota', 
+        'model': 'Celica', 
+        'price': '35000',
+      },
+      {
+        'make': 'Ford',
+        'model': 'Mondeo',
+        'price': '32000'
+        
+      },
+      {
+        'make': 'Porscha',
+        'model': 'Boxter',
+        'price': '36000'
+        
+      }, 
 ]
